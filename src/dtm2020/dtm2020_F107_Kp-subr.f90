@@ -396,7 +396,7 @@ end subroutine gldtm
 !
 !
 !***********************************************************************
-subroutine lecdtm
+subroutine lecdtm(iu10)
   ! SB 21/10/2020
   !
   !reading in the DTM model coefficients in vectors, per constituent
